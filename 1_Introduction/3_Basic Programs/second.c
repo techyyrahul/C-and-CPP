@@ -1,14 +1,14 @@
-// This is the first program of C language in which we will learn how to print something
+// This is the second program of C language in which we will learn how to print two things in tow different line
 
 
-
-// COde for Online Compiler
+// Code for Online Compiler
 
 // #include<stdio.h>
 
 // void main()
 // {
-//     printf("Hello World");
+//     printf("Hello World\n");
+//     printf("Welcome to C");
 // }
 
 
@@ -21,7 +21,8 @@
 void main()
 {
     clrscr();
-    printf("Hello World");
+    printf("Hello World\n");
+    printf("Welcome to C");
     getch();
 }
 
